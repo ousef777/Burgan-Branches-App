@@ -3,7 +3,6 @@ import 'package:burgan_branches_app/details_page.dart';
 import 'package:burgan_branches_app/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-//import 'home_page.dart';
 import 'dart:async';
 
 void main() {
